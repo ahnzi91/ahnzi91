@@ -5,7 +5,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnzi91&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://camo.githubusercontent.com/ec4aceb83f6cde5d051280ddc07c328196668b8d055e3e7bfdbbc49420dce4ed/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6f6844415345554c" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnzi91&theme=chartreuse-dark" style="width: 34%;">
+    <img src="https://camo.githubusercontent.com/ec4aceb83f6cde5d051280ddc07c328196668b8d055e3e7bfdbbc49420dce4ed/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6f6844415345554c" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnzi91&theme=material-palenight" style="width: 34%;">
 </a>
 
 <!--
