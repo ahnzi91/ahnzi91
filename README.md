@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ahnzi91)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahnzi91&theme=dark&locale=ko&card_width=846)](https://git.io/streak-stats)
 
 <!--
 **ahnzi91/ahnzi91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
