@@ -38,36 +38,3 @@
     </a>
   </div> 
 </div>
-<div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏅 Stats</h2>
-  <div style="text-align: left;"> 
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ahnzi91&theme=chartreuse-dark&card_width=846" alt="GitHub Streak" /></a>
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=ahnzi91&show_icons=true&theme=chartreuse-dark"
-        media="(prefers-color-scheme: chartreuse-dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=ahnzi91&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=ahnzi91&show_icons=true" />
-    </picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnzi91&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000" />
-  </div> 
-</div>
-  
-<!--
-**ahnzi91/ahnzi91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
