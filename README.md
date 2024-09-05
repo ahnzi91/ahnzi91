@@ -52,7 +52,7 @@
         srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=ahnzi91&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ahnzi91&show_icons=true" />
     </picture>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnzi91&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000" />
   </div> 
