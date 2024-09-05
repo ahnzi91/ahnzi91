@@ -1,6 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnzi91&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <div align= "center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&text=Ahnzi&animation=twinkling&fontColor=ffffff&fontSize=40" />
 </div>
@@ -48,14 +45,14 @@
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ahnzi91&theme=chartreuse-dark&card_width=846" alt="GitHub Streak" /></a>
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api?username=ahnzi91&show_icons=true&theme=chartreuse-dark"
+        media="(prefers-color-scheme: chartreuse-dark)"
       />
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ahnzi91&show_icons=true" />
     </picture>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnzi91&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000" />
   </div> 
