@@ -8,7 +8,9 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2>
   <div style="margin: ; text-align: left;" "text-align: left;"> 
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,ts,mysql,mongodb,nodejs,git,github,docker,bootstrap,figma" />
+  </a>
   </div>
 </div>
 <div style="text-align: left;">
